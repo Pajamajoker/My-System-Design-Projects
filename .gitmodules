@@ -1,0 +1,9 @@
+[submodule "1-Banking-System-LLD-Code"]
+	path = 1-Banking-System-LLD-Code
+	url = https://github.com/Pajamajoker/Banking-System-LLD-Code
+[submodule "2-High-Freq-Trading-Model-And-Design-UBS-Learning-Project"]
+	path = 2-High-Freq-Trading-Model-And-Design-UBS-Learning-Project
+	url = https://github.com/Pajamajoker/High_Frequency_Trading_Model_And_System_Design
+[submodule "3-Tic-Tac-Toe-SOLID-Principles-Code"]
+	path = 3-Tic-Tac-Toe-SOLID-Principles-Code
+	url = https://github.com/Pajamajoker/Tic-Tac-Toe
